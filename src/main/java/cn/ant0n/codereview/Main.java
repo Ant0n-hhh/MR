@@ -7,7 +7,7 @@ public class Main {
         System.out.println("c11");
     }
 
-    public void change(){
+    public void change_1(){
         System.out.println("change");
     }
 }
