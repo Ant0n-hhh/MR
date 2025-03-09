@@ -6,4 +6,8 @@ public class Main {
         System.out.println("c10");
         System.out.println("c11");
     }
+
+    public void change(){
+        System.out.println("change");
+    }
 }
